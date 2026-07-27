@@ -68,4 +68,4 @@
 
 ## 🐛 反馈
 
-遇到 bug 或有建议，请到 [Issues](https://github.com/你的用户名/wordisle/issues) 提交反馈。
+遇到 bug 或有建议，请到 [Issues](https://github.com/vodkaangel07/wordisle/issues) 提交反馈。
