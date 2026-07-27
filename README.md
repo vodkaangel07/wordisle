@@ -7,7 +7,7 @@
 
 ## 📥 下载安装
 
-从 [Releases](https://github.com/你的用户名/wordisle/releases/latest) 页面下载对应平台的安装包：
+从 [Releases](https://github.com/vodkaangel07/wordisle/releases/latest) 页面下载对应平台的安装包：
 
 | 平台 | 文件 | 说明 |
 |------|------|------|
