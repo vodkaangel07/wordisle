@@ -11,8 +11,8 @@
 
 | 平台 | 文件 | 说明 |
 |------|------|------|
-| macOS (Apple Silicon) | `WordIsle-1.0.0-arm64.dmg` | M1 / M2 / M3 / M4 芯片 Mac |
-| Windows (x64) | `WordIsle-1.0.0-win32-x64.zip` | Win10 / Win11 64 位 |
+| macOS (Apple Silicon) | `WordIsle-1.1.0-arm64.dmg` | M1 / M2 / M3 / M4 芯片 Mac |
+| Windows (x64) | `WordIsle-1.1.0-win32-x64.zip` | Win10 / Win11 64 位 |
 
 ### macOS 安装步骤
 
@@ -51,11 +51,10 @@
 
 ## 🔒 数据与隐私
 
-- **完全本地存储**：所有数据保存在你的电脑上，不发送任何网络请求
-- **数据位置**：
-  - macOS：`~/Documents/wordisle/data.myisland`
-  - Windows：`D:\WordIsle\data.myisland`（D 盘不可用时回退到「文档」文件夹）
+- **完全本地存储**：所有数据保存在你的电脑上，不上传任何用户数据
+- **数据位置**：默认保存在「文档」文件夹下的 `wordisle/data.myisland`，可在应用内「偏好设置」中自定义为任意目录
 - **导入/导出**：应用内可导出 `.myisland` 备份文件，换机迁移用导入功能恢复
+- **联网检查更新**：启动时会访问 GitHub 查询是否有新版本（仅读取版本号，不上传任何数据），离线时自动跳过
 - **无遥测**：不收集任何使用数据
 
 ## 📜 致谢
